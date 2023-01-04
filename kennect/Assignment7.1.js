@@ -1,6 +1,6 @@
 // Assignment 7.1 
 // for loop for printing a text 5 times.
-/*const n=5;
+const n=5;
 for(let i=1;i<=5;i++){
     console.log("kennect Assignment of forloop");
 };
@@ -43,4 +43,3 @@ switch (a) {
         break;
 }
 console.log(`The value is ${a}`);
-*/
